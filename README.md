@@ -12,7 +12,8 @@
 - 🔧 I specialize in: `Roblox Scripting`, `Exploit Dev`, `DLL Injection`, `Custom API Systems`
 - 🌱 Currently learning: `Game Memory Hacking`, `Low-Level Lua Bytecode`, `C++ Internals`
 - 🔭 Projects: **Cbot V2**, **ExCore Executor**, **Auth API** for private scripts
-- ⚙️ Tools of choice: `Visual Studio`, `VSCode`, `Wireshark`, `IDA Pro`, `Node.js`, `Python`, `Synapse X`
+- 🔨 Current working on: Boost Tool (for discord)
+- ⚙️ Tools of choice: `Visual Studio`, `VSCode`, `Wireshark`, `IDA Pro`, `Node.js`, `Python`, `Zorara`
 - 💬 Ask me about: `Silent Aim`, `ESP Systems`, `Executor Design`, `Script Security`
 - ⚡ Fun fact: I write more code in Roblox Studio than in actual IDEs 😅
 
